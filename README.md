@@ -91,7 +91,8 @@ Karnataka (100%), Meghalaya (66.7%), Telangana (50%) and Delhi (25%) have churn.
 - **Basic plan customers churn the most** (60%), while Premium customers are the most loyal.
 - **Escalated complaints are strongly linked to churn** (correlation ≈ 0.77), so unresolved support issues are a key churn driver.
 - Churn is concentrated in a few states, but the sample is very small, so state-level numbers should be read with caution.
-- 
+
+   ![Relationship Between Data](grapg.png)
 
 > ⚠️ **Note:** The dataset has only 21 customers, so these results are indicative, not statistically conclusive.
 
